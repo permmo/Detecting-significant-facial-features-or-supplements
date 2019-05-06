@@ -1,0 +1,20 @@
+item {
+  name: "eyeglasses"
+  id: 1
+}
+item {
+  name: "goatee"
+  id: 2
+}
+item {
+  name: "bald"
+  id: 3
+}
+item {
+  name: "earring"
+  id: 4
+}
+item {
+  name: "mustache"
+  id: 5
+}
